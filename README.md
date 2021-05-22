@@ -26,8 +26,9 @@
     </li>
     <li><a href="#kmeans">Kmeans</a></li>
     <li><a href="#LVQ">LVQ</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#run">Run</a></li>
+    <li><a href="#requirements">Requirements</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -66,6 +67,7 @@ Each time clusters are made centroids are updated, the updated centroid is the c
 
 ## LVQ
 Learning Vector Quantization LVQ, different from Vector quantization VQ and Kohonen Self-Organizing Maps KSOM, basically is a competitive network which uses supervised learning. We may define it as a process of classifying the patterns where each output unit represents a class. As it uses supervised learning, the network will be given a set of training patterns with known classification along with an initial distribution of the output class. After completing the training process, LVQ will classify an input vector by assigning it to the same class as that of the output unit. [(source)](https://www.tutorialspoint.com/artificial_neural_network/artificial_neural_network_learning_vector_quantization.htm)
+
 ## Run
 
 ###### Examples
