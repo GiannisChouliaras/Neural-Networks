@@ -33,7 +33,7 @@
 </details>
 
 
-## AData preparation
+## Data preparation
 In the project we will work on supervised and unsupervised learning. 
 
 **Classification problem**: We will create datasets to solve the problem of classifying four categories using the MLP classifier. We will add noise to the whole set of training. Each set of education categories 1,2 and 3 with a probability of 0.1 will be changed to category 4.
