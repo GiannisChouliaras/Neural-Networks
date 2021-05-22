@@ -19,7 +19,7 @@
   <summary>Summary</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Data preparation">Data preparation</a>
     </li>
     <li>
       <a href="#multilayerPerceptron">Multilayer Perceptron</a>
@@ -33,9 +33,7 @@
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## AData preparation
 In the project we will work on supervised and unsupervised learning. 
 
 **Classification problem**: We will create datasets to solve the problem of classifying four categories using the MLP classifier. We will add noise to the whole set of training. Each set of education categories 1,2 and 3 with a probability of 0.1 will be changed to category 4.
@@ -56,7 +54,7 @@ An MLP consists of at least three layers of nodes: an input layer, a hidden laye
 ## Kmeans 
 It groups the data points based on their similarity or closeness to each other, in simple terms, the algorithm needs to find the data points whose values are similar to each other and therefore these points would then belong to the same cluster.
 
-**Steps: **
+**Steps:**
 1. Choose K value
 2. Initialize centroids randomly
 3. Calculate Euclidean distance from centroids to each data point and form clusters that are close to centroids
@@ -85,9 +83,7 @@ In the folders K-means and Learning-Vector-Quantization run `make all` and then 
 * [gcc compiler](https://gcc.gnu.org/)
 * [gnuplot](http://www.gnuplot.info/)
 
-<!-- CONTACT -->
+
 ## Contact
-
- Ioannis Chouliaras - [@GiannisChou](https://twitter.com/GiannisChou) - giannis.chouliaras10@gmail.com
-
+Ioannis Chouliaras - [@GiannisChou](https://twitter.com/GiannisChou) - giannis.chouliaras10@gmail.com
 Project Link: [Computational Intelligence](https://github.com/GiannisChouliaras/Computational_Intelligence--MYE035)
