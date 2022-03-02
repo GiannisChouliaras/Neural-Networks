@@ -83,6 +83,8 @@ In the folders K-means and Learning-Vector-Quantization run `make all` and then 
 * [gcc compiler](https://gcc.gnu.org/)
 * [gnuplot](http://www.gnuplot.info/)
 
+## License
+See the [LICENSE](https://github.com/GiannisChouliaras/Computational_Intelligence--MYE035/blob/master/LICENSE.md) file for license rights and limitations (MIT).
 
 ## Contact
 Ioannis Chouliaras - [@GiannisChou](https://twitter.com/GiannisChou) - giannis.chouliaras10@gmail.com
